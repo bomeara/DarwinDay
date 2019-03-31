@@ -4,15 +4,7 @@ This is the repository for Darwin Day Tennessee's website and other information.
 
 The site is made with jekyll.
 
-The Gemfile in docs has info on themes. If you change this, run
-
-```
-bundle
-```
-
-to install needed themes.
-
-You can then edit pages, which can be markdown (.md) or html files.
+This uses the https://github.com/mmistakes/minimal-mistakes theme.
 
 # Editing the pages
 
