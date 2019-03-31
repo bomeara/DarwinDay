@@ -1,15 +1,13 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "http://bomeara.github.io"
-languageCode = "en-us"
-title = "Darwin Day"
-publishDir = "docs"
-
+baseURL = "https://www.example.com/"
+languageCode = "en-AU"
+title = "My Awesome Title"
 
 # Metadata
 [params]
-  author = "Darwin Day Tennessee"
-  description = "Student organization for promoting knowledge about evolution"
+  author = "Your name"
+  description = "Cool description"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
@@ -230,3 +228,4 @@ publishDir = "docs"
   vine = "#"
   linkedin = "#"
   instagram = "#"
+  
