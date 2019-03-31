@@ -11,15 +11,15 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+ remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Darwin Day"
 title_separator          : "-"
 toc                      : true
-name                     : "maintained by Brian O'Meara"
+name                     : "maintained by Brian OMeara"
 description              : "Educating our community about evolution"
 # If you are building a GitHub project page then use these settings:
 url: "http://bomeara.github.io/DarwinDay"
@@ -110,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian O'Meara"
+  name             : "Brian OMeara"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Faculty advisor for Darwin Day TN"
   location         : "Knoxville, TN"
