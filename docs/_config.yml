@@ -1,4 +1,4 @@
-remote_theme: "benbalter/retlab"
+remote_theme: "daattali/beautiful-jekyll"
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
