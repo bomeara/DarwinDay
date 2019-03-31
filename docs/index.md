@@ -8,15 +8,51 @@ Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informi
 
 We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events.
 
+# Current year
+
+Planning for the Feb. 2020 Darwin Day is underway...
+
+# Past years
+
+## 2019
+
+### Seminar speaker [Dr. Alan Templeton:](https://pages.wustl.edu/templeton)
+
+
+### Birthday party
+
+[Darwin's birthday party](https://news.utk.edu/2019/02/12/mcclung-museum-plans-family-activities-for-darwin-day/) was hosted at the McClung museum.
+
+## Organizers
+
+Mali Hubert, Claire Winfrey, Clara Howell
+
+## 2018
+
+### Seminar speaker [Dr. Nizar Ibrahim:](https://www.nizaribrahim.net/)
+
+German/Moroccan paleontologist Nizar Ibrahim, a postdoctoral scholar in vertebrate anatomy and paleontology at the University of Chicago, scours the deserts of North Africa for clues to life in the Cretaceous period, when the area was a large river system teeming with a profusion of diverse life. In addition to unearthing many huge dinosaur bones, he has discovered fossil footprints and a new species of flying reptile with an 18-foot wingspan that lived 95 million years ago. His upcoming paper describing the ecosystem of what is now Morocco's Sahara Desert in the mid-Cretaceous period will be a milestone, providing the most detailed account of the diversity, paleoecology, and geologic context of fossil vertebrates from North Africa. His description is especially important, since northern Africa and the mid-Cretaceous period are underexplored and underrepresented in paleontology. "We found an entire lost world; a window on a moment of major evolutionary change," he says. Nizar Ibrahim was named a National Geographic Emerging Explorer in 2014.
+
+### Birthday party
+
+Darwin's birthday party was hosted at the McClung museum.
+
+* [Knox News Sentinel articles](https://www.knoxnews.com/story/news/education/2018/02/10/university-tennessee-mcclung-museum-hosts-family-fun-day-celebrate-charles-darwin-birthday-knoxville/326585002/)
+
+### Organizers
+
+Maggie Limbeck and Jessica Beck
+
+
 # Informational Handouts
 
-## History:
+## History
 
 *   [A Brief History of Charles Darwin](handouts/A%20Brief%20History%20of%20Charles%20Darwin.pdf "A Brief History of Charles Darwin")
 
 *   [A Brief History of Alfred R. Wallace](handouts/A%20Brief%20History%20of%20Alfred%20R.%20Wallace.pdf "A Brief History of Alfred R. Wallace")
 
-## On Understanding Evolution:
+## On Understanding Evolution
 
 *   [Defining Evolution](handouts/Defining%20Evolution.pdf "Defining Evolution")
 
@@ -30,7 +66,7 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 *   [Answers to Jonathan Wells's "10 Questions to ask your biology teacher about evolution"](handouts/Answers%20to%20Jonathan%20Wells_revised.pdf "Answers to Jonathan Wells's ")
 
-## In the Classroom:
+## In the Classroom
 
 *   [Why Teach Evolution?](handouts/Why%20Teach%20Evolution.pdf "Why Teach Evolution?")
 
