@@ -6,6 +6,8 @@ The site is made with jekyll.
 
 This uses the https://github.com/mmistakes/minimal-mistakes theme.
 
+After you edit, to test locally, `bundle exec jekyll serve`.
+
 # Editing the pages
 
 Info taken from default for github pages:
