@@ -22,7 +22,7 @@ name                     : "maintained by Brian O'Meara"
 description              : "Educating our community about evolution"
 # If you are building a GitHub project page then use these settings:
 url: "http://bomeara.github.io/DarwinDay"
-baseurl: "/DarwinDay"
+baseurl: ""
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brian O'Meara
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Faculty advisor for Darwin Day TN"
+  location         : "Knoxville, TN"
+  email            : "bomeara@utk.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
