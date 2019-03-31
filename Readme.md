@@ -1,10 +1,10 @@
-This is the site for Darwin Day TN.
+This is the site for Darwin Day TN. It is deployed at https://bomeara.github.io/DarwinDay/.
 
 It is deployed using hugo.
 
-See [here](https://gohugo.io/getting-started/installing) for how to install it.
+See [here](https://gohugo.io/getting-started/installing) for how to install it. Easiest is to install homebrew and then `brew install hugo`. You will also need github to get this site and modify it.
 
-You may need to install npm and another dependency as well. On a Mac:
+You may need to install npm for other dependencies. On a Mac:
 
 ```
 brew install npm
