@@ -1,6 +1,7 @@
 ---
 title: Darwin Day Tennessee
 subtitle: Educating our community about evolution
+toc: true
 ---
 
 ## Darwin Day Tennessee
