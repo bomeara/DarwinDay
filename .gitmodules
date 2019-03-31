@@ -1,0 +1,6 @@
+[submodule "DarwinDay/themes/ananke"]
+	path = DarwinDay/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "DarwinDay/themes/introduction"]
+	path = DarwinDay/themes/introduction
+	url = https://github.com/victoriadotdev/hugo-theme-introduction
