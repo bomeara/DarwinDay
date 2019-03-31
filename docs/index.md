@@ -8,9 +8,7 @@ Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informi
 
 We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events.
 
-## Handouts for teachers and students
-
-# Informational Handouts:
+# Informational Handouts
 
 ## History:
 
