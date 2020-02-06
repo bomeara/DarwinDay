@@ -22,6 +22,10 @@ Here is a talk by Dr. Ware at the March for Science:
 
 **Darwin's Birthday Party** Saturday, February 15th, 12:30 pm, McClung Museum
 
+This year's organizer is Krista De Cooke (kdecooke@vols.utk.edu).
+
+Sponsors for Darwin Day this year include the University of Tennessee, Knoxville's departments of Theater; Religious Studies; Classics; Math; History; Sociology; Plant Sciences; Art; and Ecology & Evolutionary Biology; as well as the National Institute for Biological and Mathematical Synthesis (NIMBioS).
+
 # 2019: Keynote [Dr. Alan Templeton](https://pages.wustl.edu/templeton)
 
 **Birthday party**: [Darwin's birthday party](https://news.utk.edu/2019/02/12/mcclung-museum-plans-family-activities-for-darwin-day/) was hosted at the McClung museum.
