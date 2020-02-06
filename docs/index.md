@@ -8,7 +8,7 @@ Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informi
 
 We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events.
 
-# Current year
+# 2020: Keynote [Dr. Jessica Ware](https://sasn.rutgers.edu/about-us/faculty-staff/jessica-l-ware)
 
 **Phylum Feast**: Wednesday, February 12th, 11:30 am. Ayres 308h
 
