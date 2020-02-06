@@ -10,6 +10,10 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 # 2020: Keynote [Dr. Jessica Ware](https://www.newark.rutgers.edu/about-us/have-you-met-rutgers-newark/jessica-ware)
 
+Here is a talk by Dr. Ware at the March for Science:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzwYsuzfDPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Phylum Feast**: Wednesday, February 12th, 11:30 am. Ayres 308h
 
 **Keynote** Dr. Jessica Ware. Wed. Feb 12, 6 pm, Strong Hall 101
