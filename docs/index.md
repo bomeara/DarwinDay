@@ -10,7 +10,13 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 # Current year
 
-Planning for the Feb. 2020 Darwin Day is underway...
+**Phylum Feast**: Wednesday, February 12th, 11:30 am. Ayres 308h
+
+**Keynote** Dr. Jessica Ware. Wed. Feb 12, 6 pm, Strong Hall 101
+
+**Evolution Board Game Tournament** Saturday, February 15th, 11:30 am, McClung Museum
+
+**Darwin's Birthday Party** Saturday, February 15th, 12:30 pm, McClung Museum
 
 # 2019: Keynote [Dr. Alan Templeton](https://pages.wustl.edu/templeton)
 
