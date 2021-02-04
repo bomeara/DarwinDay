@@ -22,6 +22,8 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees?start=86" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Due to covid, we will not be co-hosting the annual Darwin's birthday party with the McClung museum, and our fantastic Darwin and Wallace puppets will remain safely at home. But they will return in 2022!
+
 # 2020: Keynote [Dr. Jessica Ware](https://www.newark.rutgers.edu/about-us/have-you-met-rutgers-newark/jessica-ware)
 
 Here is a talk by Dr. Ware at the March for Science:
