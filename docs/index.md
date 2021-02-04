@@ -16,7 +16,7 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 **Evolution Game Online AND Reddit AMA**: We will play the online game [Evolution](https://www.evolutiondigitalgame.com/) (free to play, though purchases our available) as well as have an online panel on Reddit to ask questions about evolution, especially those inspired by the game. [Note we have no affiliation with the game or its creators -- it's just something that has worked well for us as a board game and which is fun and useful online, too]
 
-**Evolution Bake Off**: Use the hashtag `#evolutionbakes` to tag a biodiversity or evolution inspired baked creation: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. 
+**Evolution Bake Off**: Use the hashtag `#evolutionbakes` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, or Instagram: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! 
 
 # 2020: Keynote [Dr. Jessica Ware](https://www.newark.rutgers.edu/about-us/have-you-met-rutgers-newark/jessica-ware)
 
