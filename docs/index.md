@@ -10,13 +10,17 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 # 2021: Safely together!
 
-**Biodiversity Viewing Party**: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed here (link to follow); our zoom for discussion during the video is at here (link to follow). The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
+**Biodiversity Viewing Party**: Friday, Feb. 12, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed here (link to follow); our zoom for discussion during the video is at here (link to follow). The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Evolution Game Online AND Reddit AMA**: We will play the online game [Evolution](https://www.evolutiondigitalgame.com/) (free to play, though purchases our available) as well as have an online panel on Reddit to ask questions about evolution, especially those inspired by the game. [Note we have no affiliation with the game or its creators -- it's just something that has worked well for us as a board game and which is fun and useful online, too]
+**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Feb. 12, 2021. 
 
-**Evolution Bake Off**: Use the hashtag `#evolutionbakes` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, or Instagram: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! 
+**Evolution Game Online**: We will play the online game [Evolution](https://www.evolutiondigitalgame.com/) (free to play, though purchases our available). [Note we have no affiliation with the game or its creators -- it's just something that has worked well for us as a board game and which is fun and useful online, too]
+
+**Evolution Bake Off**: Use the hashtag `#evolutionbakes` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, or Instagram: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees?start=86" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 2020: Keynote [Dr. Jessica Ware](https://www.newark.rutgers.edu/about-us/have-you-met-rutgers-newark/jessica-ware)
 
