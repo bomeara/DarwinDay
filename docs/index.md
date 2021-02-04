@@ -8,6 +8,16 @@ Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informi
 
 We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events.
 
+# 2021: Safely together!
+
+**Biodiversity Viewing Party**: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed here (link to follow); our zoom for discussion during the video is at here (link to follow). The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Evolution Game Online AND Reddit AMA**: We will play the online game [Evolution](https://www.evolutiondigitalgame.com/) (free to play, though purchases our available) as well as have an online panel on Reddit to ask questions about evolution, especially those inspired by the game. [Note we have no affiliation with the game or its creators -- it's just something that has worked well for us as a board game and which is fun and useful online, too]
+
+**Evolution Bake Off**: Use the hashtag `#evolutionbakes` to tag a biodiversity or evolution inspired baked creation: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. 
+
 # 2020: Keynote [Dr. Jessica Ware](https://www.newark.rutgers.edu/about-us/have-you-met-rutgers-newark/jessica-ware)
 
 Here is a talk by Dr. Ware at the March for Science:
