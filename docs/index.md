@@ -29,7 +29,9 @@ If you want an example of the sort of discussion that takes place, here's a [pas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As images roll in, we will highlight some of the most impressive, informative, and fun bakes! 
+Here is some more inspiration from past years and (as people contribute) this year, too, as saved to [Pinterest](https://pin.it/6dn9hVW):
+
+<iframe src="https://pin.it/6dn9hVW" width="560" height="560"></iframe>
 
 Note this has no affiliation with any television shows or other baking competitions. And, sadly, taste will not be assessed by us, but we hope you and those in your bubble enjoy the taste of your creations.
 
