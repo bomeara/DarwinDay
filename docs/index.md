@@ -6,7 +6,7 @@ toc: true
 
 Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informing the public about evolution and its importance as a unifying concept in all of biology. Our goal is to disseminate factual information, in the context of a non-confrontational and rational discussion based on empirical evidence without pre-conceived ideological agendas or uncritical faith in the opinions of scientists, politicians, or clerics. In a state with past and recent legislative efforts to introduce faith-based ideologies into the science classrooms of public schools, these efforts are particularly important.
 
-We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events.
+We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events. See [Sheffield & Bauer (2017)](https://doi.org/10.1186/s12052-017-0073-3) and [Goodman (2008)](https://doi.org/10.1007/s12052-008-0060-9) for publications describing its evolution and impact.
 
 # 2021: Safely together!
 
@@ -14,11 +14,16 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Feb. 12, 2021. 
+**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Monday, Feb. 15, 2021. Our panelists will be
 
-**Evolution Game Online**: We will play the online game [Evolution](https://www.evolutiondigitalgame.com/) (free to play, though purchases our available). [Note we have no affiliation with the game or its creators -- it's just something that has worked well for us as a board game and which is fun and useful online, too]
+* [Dr. Stephanie Drumheller-Horton](https://eps.utk.edu/faculty/drumheller.php), paleontology, especially taphonomy
+* [Amy Luo](https://eeb.utk.edu/people/amy-luo/), PhD student, bird song dialect evolution
+* [Krista De Cooke](https://www.linkedin.com/in/krista-de-cooke-163a87116/), PhD student, invasive plant spread and native plant alternatives
+* [Dr. Dan Simberloff](https://eeb.utk.edu/people/daniel-simberloff/), invasive species and biogeography
+* [Dr. Brian O'Meara](http://brianomeara.info/), macroevolution, especially speciation, extinction, and trait evolution
 
-**Evolution Bake Off**: Use the hashtag `#evolutionbakes` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, or Instagram: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
+
+**Evolution Bake Off**: Use the hashtag `#evolutionbakeoff` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, or Instagram: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees?start=86" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
