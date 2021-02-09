@@ -29,10 +29,6 @@ If you want an example of the sort of discussion that takes place, here's a [pas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here is some more inspiration from past years and (as people contribute) this year, too, as saved to [Pinterest](https://pin.it/6dn9hVW):
-
-<iframe src="https://pin.it/6dn9hVW" width="560" height="560"></iframe>
-
 Note this has no affiliation with any television shows or other baking competitions. And, sadly, taste will not be assessed by us, but we hope you and those in your bubble enjoy the taste of your creations.
 
 Due to covid, we will not be co-hosting the annual Darwin's birthday party with the McClung museum, and our fantastic Darwin and Wallace puppets will remain safely at home. But they will return in 2022!
