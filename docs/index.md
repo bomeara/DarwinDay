@@ -4,17 +4,17 @@ subtitle: Educating our community about evolution
 toc: true
 ---
 
-Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informing the public about evolution and its importance as a unifying concept in all of biology. Our goal is to disseminate factual information, in the context of a non-confrontational and rational discussion based on empirical evidence without pre-conceived ideological agendas or uncritical faith in the opinions of scientists, politicians, or clerics. In a state with past and recent legislative efforts to introduce faith-based ideologies into the science classrooms of public schools, these efforts are particularly important.
+Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informing the public about evolution and its importance as a unifying concept in all of biology. Our goal is to disseminate factual information in the context of a non-confrontational and rational discussion based on empirical evidence.
 
 We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events. See [Sheffield & Bauer (2017)](https://doi.org/10.1186/s12052-017-0073-3) and [Goodman (2008)](https://doi.org/10.1007/s12052-008-0060-9) for publications describing its evolution and impact.
 
-# 2021: Safely together!
+# 2021: Darwin Cake Day!
 
-**Biodiversity Viewing Party**: Friday, Feb. 12, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed here (link to follow); our zoom for discussion during the video is at here (link to follow). The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
+**Biodiversity Viewing Party**: Friday, Feb. 12, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed [here](https://tennessee.zoom.us/j/93031218664) followed by a discussion. The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Monday, Feb. 15, 2021. Our panelists will be
+**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Monday, Feb. 15, 2021. People can start adding questions in the morning (US Eastern time) and we'll jump on throughout the afternoon to answer them. Our panelists will be:
 
 * [Dr. Stephanie Drumheller-Horton](https://eps.utk.edu/faculty/drumheller.php), paleontology, especially taphonomy
 * [Amy Luo](https://eeb.utk.edu/people/amy-luo/), PhD student, bird song dialect evolution
@@ -22,10 +22,16 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 * [Dr. Dan Simberloff](https://eeb.utk.edu/people/daniel-simberloff/), invasive species and biogeography
 * [Dr. Brian O'Meara](http://brianomeara.info/), macroevolution, especially speciation, extinction, and trait evolution
 
+If you want an example of the sort of discussion that takes place, here's a [past one on vertebrate paleontology](https://www.reddit.com/r/askscience/comments/jayj2c/we_are_scientists_from_the_society_of_vertebrate/) that might be of interest.
 
-**Evolution Bake Off**: Use the hashtag `#evolutionbakeoff` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, or Instagram: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees?start=86" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Evolution Bake Off**: Use the hashtag `#evolutionbakeoff` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, Pinterest, Flickr, Instagram, or wherever you use social media: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! To make sure we don't miss it (though we'll be checking the tag on various platforms), please fill in [this form](https://forms.gle/6TBtYzNGRdM8934A7). We'd love all submissions in by 11:59 pm US Eastern on Feb. 19. Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+As images roll in, we will highlight some of the most impressive, informative, and fun bakes! 
+
+Note this has no affiliation with any television shows or other baking competitions. And, sadly, taste will not be assessed by us, but we hope you and those in your bubble enjoy the taste of your creations.
 
 Due to covid, we will not be co-hosting the annual Darwin's birthday party with the McClung museum, and our fantastic Darwin and Wallace puppets will remain safely at home. But they will return in 2022!
 
