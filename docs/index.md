@@ -10,6 +10,8 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 # 2021: Darwin Cake Day!
 
+We have **three** events this year: a Biodiversity Viewing Party, a Reddit AMA, and an Evolution Bake Off. See below.
+
 **Biodiversity Viewing Party**: Friday, Feb. 12, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed [here](https://tennessee.zoom.us/j/93031218664) followed by a discussion. The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
