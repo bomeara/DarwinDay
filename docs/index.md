@@ -29,7 +29,7 @@ Note this has no affiliation with any television shows or other baking competiti
 If you want an example of the sort of discussion that takes place, here's a [past one on vertebrate paleontology](https://www.reddit.com/r/askscience/comments/jayj2c/we_are_scientists_from_the_society_of_vertebrate/) that might be of interest.
 
 
-**Biodiversity Viewing Party**: Friday, Feb. 26, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk will be streamed followed by a discussion. The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
+**Biodiversity Viewing Party**: Friday, Feb. 26, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk will be [streamed](https://tennessee.zoom.us/j/91508279244) followed by a Q&A while people watch the movie. Bring your family! [though note the movie is rated PG]. The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
