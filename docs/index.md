@@ -10,11 +10,13 @@ We sponsored our first Darwin Day event on February 12th of 1997, the 188th birt
 
 # 2021: Darwin Cake Day!
 
-We have **three** events this year: a Biodiversity Viewing Party, a Reddit AMA, and an Evolution Bake Off. See below.
+We have **three** events this year: an Evolution Bake Off, a Reddit AMA,, and a Biodiversity Viewing Party. See below.
 
-**Biodiversity Viewing Party**: Friday, Feb. 12, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk is streamed [here](https://tennessee.zoom.us/j/93031218664) followed by a discussion. The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
+**Evolution Bake Off**: Use the hashtag `#evolutionbakeoff` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, Pinterest, Flickr, Instagram, or wherever you use social media: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! To make sure we don't miss it (though we'll be checking the tag on various platforms), please fill in [this form](https://forms.gle/6TBtYzNGRdM8934A7). We'd love all submissions in by 11:59 pm US Eastern on Feb. 19. Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note this has no affiliation with any television shows or other baking competitions. And, sadly, taste will not be assessed by us, but we hope you and those in your bubble enjoy the taste of your creations.
 
 **Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Monday, Feb. 15, 2021. People can start adding questions in the morning (US Eastern time) and we'll jump on throughout the afternoon to answer them. Our panelists will be:
 
@@ -27,11 +29,9 @@ We have **three** events this year: a Biodiversity Viewing Party, a Reddit AMA, 
 If you want an example of the sort of discussion that takes place, here's a [past one on vertebrate paleontology](https://www.reddit.com/r/askscience/comments/jayj2c/we_are_scientists_from_the_society_of_vertebrate/) that might be of interest.
 
 
-**Evolution Bake Off**: Use the hashtag `#evolutionbakeoff` to tag a biodiversity or evolution inspired baked creation on Twitter, Facebook, Pinterest, Flickr, Instagram, or wherever you use social media: Dodo Donuts, Trilo-Bites, Kludgie the Legged Whale ice cream cake. Use your imagination! To make sure we don't miss it (though we'll be checking the tag on various platforms), please fill in [this form](https://forms.gle/6TBtYzNGRdM8934A7). We'd love all submissions in by 11:59 pm US Eastern on Feb. 19. Here's an inspiration from [Leila Battison](https://leilabattison.wordpress.com/2012/01/01/the-pinnacle-of-cake-evolution/):
+**Biodiversity Viewing Party**: Friday, Feb. 26, 6:30 - 8 pm US Eastern Time: We will all watch together the first episode of the nature documentary Our Planet, after an introduction by Dr. Laura Russo about biodiversity. Dr. Russo's talk will be streamed followed by a discussion. The documentary can be seen on [Netflix](https://www.netflix.com/title/80049832) and on [YouTube](https://youtu.be/GfO-3Oir-qM). We also embed it below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_3vn_5FLees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Note this has no affiliation with any television shows or other baking competitions. And, sadly, taste will not be assessed by us, but we hope you and those in your bubble enjoy the taste of your creations.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfO-3Oir-qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Due to covid, we will not be co-hosting the annual Darwin's birthday party with the McClung museum, and our fantastic Darwin and Wallace puppets will remain safely at home. But they will return in 2022!
 
