@@ -18,7 +18,7 @@ We have **three** events this year: an Evolution Bake Off, a Reddit AMA,, and a 
 
 Note this has no affiliation with any television shows or other baking competitions. And, sadly, taste will not be assessed by us, but we hope you and those in your bubble enjoy the taste of your creations.
 
-**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Monday, Feb. 15, 2021. People can start adding questions in the morning (US Eastern time) and we'll jump on throughout the afternoon to answer them. Our panelists will be:
+**Reddit AMA on Evolution**: We will host an ask me anything about evolution on the [Ask Science subreddit](https://www.reddit.com/r/askscience/) on Monday, Feb. 15, 2021. People can start adding questions now at https://www.reddit.com/r/askscience/comments/lkeguh/askscience_ama_series_we_are_evolutionary/ and we'll jump on throughout the afternoon to answer them. Our panelists will be:
 
 * [Dr. Stephanie Drumheller-Horton](https://eps.utk.edu/faculty/drumheller.php), paleontology, especially taphonomy
 * [Amy Luo](https://eeb.utk.edu/people/amy-luo/), PhD student, bird song dialect evolution
