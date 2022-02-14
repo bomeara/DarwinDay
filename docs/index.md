@@ -17,6 +17,8 @@ We have multiple events over this week:
 * **Feb 16, 2022, Evolution Trivia**: 7-8 pm
 * **Feb 20, 2022, Darwin's Birthday Party**: In association with the McClung Museum, celebrate with Darwin 1 -4 pm. More info [here](https://calendar.utk.edu/event/darwin_day_celebration).
 
+Darwin Day will also be sponsoring a prize at the EEB Research Symposium later in the spring.
+
 
 # 2021: Darwin Cake Day!
 
