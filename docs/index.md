@@ -8,6 +8,16 @@ Darwin Day in Knoxville, Tennessee is a volunteer-run event dedicated to informi
 
 We sponsored our first Darwin Day event on February 12th of 1997, the 188th birthday of Charles Robert Darwin. Since this first Darwin Day, the annual celebration has grown to include an annual keynote speaker, a teacher's workshop, and other events. See [Sheffield & Bauer (2017)](https://doi.org/10.1186/s12052-017-0073-3) and [Goodman (2008)](https://doi.org/10.1007/s12052-008-0060-9) for publications describing its evolution and impact.
 
+# 2022: ZOOM!
+
+We have multiple events over this week:
+
+* **Feb 15, 2022, Zoom a Scientist**: UTK grad students will be talking to students in Tennessee schools 10:45-11:20 am and 2:10-3:30 pm
+* **Feb 16, 2022, Booth**: Booth on UTK Pedestrian Walkway from 9 am-12 pm
+* **Feb 16, 2022, Evolution Trivia**: 7-8 pm
+* **Feb 20, 2022, Darwin's Birthday Party**: In association with the McClung Museum, celebrate with Darwin 1 -4 pm. More info [here](https://calendar.utk.edu/event/darwin_day_celebration).
+
+
 # 2021: Darwin Cake Day!
 
 We have **three** events this year: an Evolution Bake Off, a Reddit AMA,, and a Biodiversity Viewing Party. See below.
