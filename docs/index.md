@@ -14,7 +14,7 @@ We have multiple events over this week:
 
 * **Feb 15, 2022, Zoom a Scientist**: UTK grad students will be talking to students in Tennessee schools 10:45-11:20 am and 2:10-3:30 pm
 * **Feb 16, 2022, Booth**: Booth on UTK Pedestrian Walkway from 9 am-12 pm
-* **Feb 16, 2022, Evolution Trivia**: 7-8 pm
+* **Feb 16, 2022, Evolution Trivia**: 7-8 pm. All are welcome, join at https://tennessee.zoom.us/j/98440423025.
 * **Feb 20, 2022, Darwin's Birthday Party**: In association with the McClung Museum, celebrate with Darwin 1 -4 pm. More info [here](https://calendar.utk.edu/event/darwin_day_celebration).
 
 Darwin Day will also be sponsoring a prize at the EEB Research Symposium later in the spring.
